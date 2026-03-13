@@ -37,7 +37,7 @@ The dashboard helps businesses identify high-risk customers and improve retentio
 
 ## Dashboard Preview
 
-
+![Customer Analytics Dashboard](dashboard.png)
 
 ## Business Value
 
